@@ -12,5 +12,7 @@ public class App
         System.out.println( "22222222222 see that, new addition" );
         System.out.println( "22222222222 see that, new addition" );
         System.out.println( "333333333333333 see that, new addition" );
+        System.out.println( "22222222222 see that, new addition" );
+        System.out.println( "333333333333333 see that, new addition" );
     }
 }
