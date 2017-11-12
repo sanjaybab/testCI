@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!.. see this, new addition" );
         System.out.println( "Remove unnecessary editions." );
         System.out.println( "something meaningful to see !!!!!, new addition" );
-        System.out.println( "something meaningful to see !!!!!, new addition addition...." );
+        System.out.println( "jenkinstest addition...." );
     }
 }
