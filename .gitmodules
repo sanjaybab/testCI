@@ -1,0 +1,12 @@
+[submodule "web/blog"]
+    path = web/blog
+    url = git://github.com/sanjaybab/testCI/web/blog.git
+
+[submodule "web/old"]
+    path = web/old
+    url = git://github.com/sanjaybab/testCI/web/old.git
+
+[submodule "testCI"]
+    path = testCI
+    url = git://github.com/sanjaybab/testCI.git
+
