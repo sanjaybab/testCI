@@ -10,3 +10,7 @@
     path = testCI
     url = git://github.com/sanjaybab/testCI.git
 
+[submodule "crypto-sub"]
+    path = crypto-sub
+    url = git://github.com/sanjaybab/testCI/crypto-sub.git
+
